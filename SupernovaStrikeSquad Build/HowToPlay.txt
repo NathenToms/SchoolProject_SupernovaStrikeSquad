@@ -1,0 +1,10 @@
+Instructions
+The game is intended to be played with a controller.
+
+Controls
+Left Joystick: Steer
+Right & Left Bumper: Shoot
+Right & Left Trigger: Roll
+D-Pad (Gunner): Swap Weapons
+A & B: Shoot
+Y: Swap Characters
